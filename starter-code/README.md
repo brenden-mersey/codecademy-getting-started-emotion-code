@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://www.codecademy.com/journeys/front-end-engineer/paths/fecj-22-front-end-development/tracks/fecj-22-advanced-web-development/modules/wdcp-22-styling-your-applications-a024a573-868a-44e0-b0fe-e26bfa633970/articles/getting-started-with-emotion
 
 ## Available Scripts
 
